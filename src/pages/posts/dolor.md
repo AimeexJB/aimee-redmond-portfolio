@@ -1,10 +1,10 @@
 ---
 title: Movie Website using VueJS and TMDB
 home_style: style3
-home_img: images/pic08.jpg
+home_img: /images/n00143252_n00152592_posterimage.jpg
 excerpt: ''
 date: '2017-04-05'
-img_src: ''
+img_src: /images/n00143252_n00152592_posterimage.jpg
 template: page
 ---
 This is an experimental movie website using a combination of VueJS and TMDB. It was completed by me and a friend as part of our 3rd year College project. 
