@@ -1,15 +1,18 @@
 ---
-title: Dolor
+title: Movie Website using VueJS and TMDB
 home_style: style3
 home_img: images/pic08.jpg
-excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
+excerpt: ''
 date: '2017-04-05'
-img_src: images/pic13.jpg
+img_src: ''
 template: page
 ---
+This is an experimental movie website using a combination of VueJS and TMDB. It was completed by me and a friend as part of our 3rd year College project. 
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+We researched many different Movie and TV websites/trackers and chose our favourite bits a put them all together to create this one app.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
+The App allows you to create and account and login, view Top Movies and TV shows along with all the information about them and also allows you to add any of theses movies or shows to 3 separate lists; To Watch, Watched and Favourites.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+The project is hosted using the Firebase database which keeps track of the users ID and all of the lists for each user.
+
+Github Repo: <https://github.com/Fergtato/vortex>
