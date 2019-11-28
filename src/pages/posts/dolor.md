@@ -1,7 +1,7 @@
 ---
 title: Movie Website using VueJS and TMDB
 home_style: style3
-home_img: /images/n00143252_n00152592_posterimage.jpg
+home_img: /images/pic08.jpg
 excerpt: ''
 date: '2017-04-05'
 img_src: /images/n00143252_n00152592_posterimage.jpg
