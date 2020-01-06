@@ -3,6 +3,10 @@ title: React Playlist App using MongoDB
 home_style: style5
 home_img: /images/pic05.jpg
 date: 2019-04-04T23:00:00.000Z
+menus:
+  main:
+    title: Playlist APP
+    weight: 0
 template: page
 ---
 A college assignment in which we were tasked with developing a full stack web application, front end and back end, using React, MongoDB, Express and Node. This site is also hosted on Heroku.
