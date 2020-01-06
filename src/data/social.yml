@@ -7,3 +7,6 @@ follow_section:
   - icon: fa-envelope-o
     link_url: aimeeredmond@gmail.com
     title: Email
+  - icon: fa-linkedin
+    link_url: 'https://www.linkedin.com/in/aimee-redmond-395108a7/'
+    title: LinkedIn
