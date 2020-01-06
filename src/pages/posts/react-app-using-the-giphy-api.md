@@ -1,7 +1,7 @@
 ---
 title: React App using the Giphy API
 home_style: style6
-home_img: /images/pic11.jpg
+home_img: /images/reactjs.png
 date: 2018-10-23T23:00:00.000Z
 menus:
   main:
