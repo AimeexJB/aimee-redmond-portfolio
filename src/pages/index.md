@@ -7,7 +7,7 @@ menus:
     weight: 1
 template: home
 ---
-<img align="left" src="/images/aportraitsubmission.jpg" width="250" height="250" style="border: 10px solid white;"/>
+<img align="left" src="/images/aportraitsubmission.jpg" width="250" height="260" style="border: 10px solid white;"/>
 
 <br />
 
