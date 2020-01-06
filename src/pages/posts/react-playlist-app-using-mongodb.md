@@ -1,7 +1,7 @@
 ---
 title: React Playlist App using MongoDB
 home_style: style5
-home_img: /images/pic05.jpg
+home_img: /images/mern.jpeg
 date: 2019-04-04T23:00:00.000Z
 menus:
   main:
