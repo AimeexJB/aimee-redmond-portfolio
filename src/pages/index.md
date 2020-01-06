@@ -7,7 +7,7 @@ menus:
     weight: 1
 template: home
 ---
-<img align="left" src="/images/aportraitsubmission.jpg" width="150" height="150"/>
+<img float="left" src="/images/aportraitsubmission.jpg" width="150" height="150"/>
 
 <br />
 
